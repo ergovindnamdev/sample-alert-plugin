@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:     Simple Alert Plugin
- * Plugin URI:      www.futurebridge.com
+ * Plugin URI:      
  * Description:     This is a Simple Alert Plugin
- * Author:          Futurebridge
- * Author URI:      www.futurebridge.com
+ * Author:          Govind Namdev
+ * Author URI:      
  * Text Domain:     simple-alert-plugin
  * Domain Path:     /languages
  * Version:         0.1.0

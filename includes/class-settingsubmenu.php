@@ -126,7 +126,7 @@ class SettingSubMenu {
 		);
 
 		// Add Fields dynamically for post types.
-		$post_types = $this->get_wp_tpost_types();
+		$post_types = $this->get_wp_post_types();
 		foreach ( $post_types as $post_type ) {
 			add_settings_field(
 				'alert_plugin_' . $post_type . '_data',
